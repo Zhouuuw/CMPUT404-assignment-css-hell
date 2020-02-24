@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes in Gutenberg documents
+=================
+Two document share almost the same so the style sheet are exacted and rewrited in "stlyes/main.css"
+appropriate dividers are added.
+Then the new style sheet are applied to the third one.
 
