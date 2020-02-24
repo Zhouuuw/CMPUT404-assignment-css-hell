@@ -27,3 +27,6 @@ Two document share almost the same so the style sheet are exacted and rewrited i
 appropriate dividers are added.
 Then the new style sheet are applied to the third one.
 
+Good & Bad
+=================
+Good is already so bad so there is no bad so far.
